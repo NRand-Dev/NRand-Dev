@@ -12,6 +12,6 @@ Nathan Randolph - Back-End Developer and Game Dev
 - ⚡ Fun fact: Prior to programming I was a vocalist and guitar player for an experimental mathcore band.
 
 Certificates
-
+[![Boot.dev Build a BookBot in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/474df6c1-a5fc-49aa-bca7-e2eca67a9e99.jpeg?v=1786309390)](https://www.boot.dev/certificates/474df6c1-a5fc-49aa-bca7-e2eca67a9e99)
 [![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/db22359f-fab1-4ea4-96aa-ab425723853b.jpeg?v=1786204900)](https://www.boot.dev/certificates/db22359f-fab1-4ea4-96aa-ab425723853b)
 [![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/e39ff83e-b731-4f2b-94ac-ac4c6f7c4ef9.jpeg?v=1786204840)](https://www.boot.dev/certificates/e39ff83e-b731-4f2b-94ac-ac4c6f7c4ef9)
