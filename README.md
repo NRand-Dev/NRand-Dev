@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-Nathan Randolph - Back-End Developer and Game Dev
+Nathan Randolph - Back-End Programmer, Game Developer, and Musician.
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning Back-End Development on Boot.dev to build my career skills.
-- 🔭 I’m currently working on iterating on various game designs I have. Playing around to find the fun.
+- 🔭 I’m currently working on various game designs I have. Playing around to find the fun!
 - ⚡ Fun fact: Prior to programming I was a vocalist and guitar player for an experimental mathcore band.
 
 Boot.dev Profile: 
