@@ -18,6 +18,7 @@ Boot.dev Profile:
 
 
 Certificates
+[![Boot.dev Learn Object Oriented Programming in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/ff73f001-3506-44be-ba97-3dd718c93e70.jpeg?v=1787929708)](https://www.boot.dev/certificates/ff73f001-3506-44be-ba97-3dd718c93e70)
 [![Boot.dev Learn Git certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/4492b9d2-6181-49b1-91b6-87187b174700.jpeg?v=1786654834)](https://www.boot.dev/certificates/4492b9d2-6181-49b1-91b6-87187b174700)
 [![Boot.dev Build a BookBot in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/474df6c1-a5fc-49aa-bca7-e2eca67a9e99.jpeg?v=1786309390)](https://www.boot.dev/certificates/474df6c1-a5fc-49aa-bca7-e2eca67a9e99)
 [![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/db22359f-fab1-4ea4-96aa-ab425723853b.jpeg?v=1786204900)](https://www.boot.dev/certificates/db22359f-fab1-4ea4-96aa-ab425723853b)
