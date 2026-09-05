@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 For examples of my work, check out my 'asteroids-pygame' repo. I am slowly expanding upon it as a practice project. 
 Thanks for checking out my page!
 
-**Boot.dev Profile: **
+**Boot.dev Profile:**
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/217c935c-6032-47cc-968b-21236a1734fe/thumbnail" >
 </p>
