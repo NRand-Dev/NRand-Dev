@@ -21,6 +21,7 @@ Boot.dev Profile:
 
 
 Certificates
+
 [![Boot.dev Build Asteroids using Python and Pygame certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/5b0d2e1c-2469-4a60-a0c7-65df9ce33b04.jpeg?v=1788621313)](https://www.boot.dev/certificates/5b0d2e1c-2469-4a60-a0c7-65df9ce33b04)
 [![Boot.dev Learn Object Oriented Programming in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/ff73f001-3506-44be-ba97-3dd718c93e70.jpeg?v=1787929708)](https://www.boot.dev/certificates/ff73f001-3506-44be-ba97-3dd718c93e70)
 [![Boot.dev Learn Git certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/4492b9d2-6181-49b1-91b6-87187b174700.jpeg?v=1786654834)](https://www.boot.dev/certificates/4492b9d2-6181-49b1-91b6-87187b174700)
