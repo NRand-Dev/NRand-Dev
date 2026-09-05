@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-**NPRandolph/NPRandolph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-**Nathan Randolph - Back-End Programmer, Game Developer, and Musician.**
+# **Nathan Randolph - Back-End Programmer, Game Developer, and Musician.**
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning Back-End Development on Boot.dev to build my career skills.
 - 🔭 I’m currently working on various game designs I have. Playing around to find the fun!
@@ -14,13 +7,13 @@ Here are some ideas to get you started:
 For examples of my work, check out my 'asteroids-pygame' repo. I am slowly expanding upon it as a practice project. 
 Thanks for checking out my page!
 
-**Boot.dev Profile:**
+## **Boot.dev Profile:**
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/217c935c-6032-47cc-968b-21236a1734fe/thumbnail" >
 </p>
 
 
-**Certificates**
+## **Certificates**
 
 [![Boot.dev Build Asteroids using Python and Pygame certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/5b0d2e1c-2469-4a60-a0c7-65df9ce33b04.jpeg?v=1788621313)](https://www.boot.dev/certificates/5b0d2e1c-2469-4a60-a0c7-65df9ce33b04)
 [![Boot.dev Learn Object Oriented Programming in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/ff73f001-3506-44be-ba97-3dd718c93e70.jpeg?v=1787929708)](https://www.boot.dev/certificates/ff73f001-3506-44be-ba97-3dd718c93e70)
