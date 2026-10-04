@@ -14,7 +14,7 @@ Thanks for checking out my page!
 
 
 ## **Certificates**
-
+[![Boot.dev Build an AI Agent in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/3b778bb1-e96b-4f5d-b58f-1c0bf87aa314.jpeg?v=1791117928)](https://www.boot.dev/certificates/3b778bb1-e96b-4f5d-b58f-1c0bf87aa314)
 [![Boot.dev Learn Functional Programming in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/5d82f0c6-0c5e-47ce-b140-a7475d7ed43b.jpeg?v=1790003116)](https://www.boot.dev/certificates/5d82f0c6-0c5e-47ce-b140-a7475d7ed43b)
 [![Boot.dev Build Asteroids using Python and Pygame certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/5b0d2e1c-2469-4a60-a0c7-65df9ce33b04.jpeg?v=1788621313)](https://www.boot.dev/certificates/5b0d2e1c-2469-4a60-a0c7-65df9ce33b04)
 [![Boot.dev Learn Object Oriented Programming in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/ff73f001-3506-44be-ba97-3dd718c93e70.jpeg?v=1787929708)](https://www.boot.dev/certificates/ff73f001-3506-44be-ba97-3dd718c93e70)
